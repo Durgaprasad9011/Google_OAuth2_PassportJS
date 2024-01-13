@@ -43,7 +43,7 @@ Certainly! Below is a sample readme file you can use for your project:
 - The homepage will be displayed.
 - Click on "Click to authenticate with Google."
 
-![Alt Text](https://drive.google.com/file/d/1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9/view?usp=sharing)
+![Alt Text](https://drive.google.com/file/d/1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9/view)
 
 ### 2. Google Authentication
 
