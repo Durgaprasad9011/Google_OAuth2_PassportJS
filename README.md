@@ -7,8 +7,9 @@ To run this application locally, follow these steps:
 ```bash
 $ git clone https://github.com/Durgaprasad9011/Google_OAuth2_PassportJS.git
 $ cd Google_OAuth2_PassportJS
-$ npm start
+$ code .
 ```
+The files will be opened in VS Code
 
 ## Note
 
