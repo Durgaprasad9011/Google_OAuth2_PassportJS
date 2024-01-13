@@ -32,9 +32,9 @@ Certainly! Below is a sample readme file you can use for your project:
 
 ---
 
-# Project README
 
-## Output
+
+# Output
 
 
 ### 1. Initial Setup
@@ -43,7 +43,7 @@ Certainly! Below is a sample readme file you can use for your project:
 - The homepage will be displayed.
 - Click on "Click to authenticate with Google."
 
-![Home Page](https://drive.google.com/file/d/1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9/view?usp=sharing)
+![Home Page] (https://drive.google.com/file/d/1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9/view?usp=sharing)
 
 ### 2. Google Authentication
 
