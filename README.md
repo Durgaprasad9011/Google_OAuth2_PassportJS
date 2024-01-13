@@ -28,14 +28,11 @@ And head over to https://localhost:5000 in your browser.
 
 
 
-Certainly! Below is a sample readme file you can use for your project:
+# Project README
 
----
+## Google Authentication Example
 
-
-
-# Output
-
+This project demonstrates the implementation of Google Authentication in a web application. Follow the steps below to understand the flow and functionalities.
 
 ### 1. Initial Setup
 
@@ -43,31 +40,32 @@ Certainly! Below is a sample readme file you can use for your project:
 - The homepage will be displayed.
 - Click on "Click to authenticate with Google."
 
-![Alt Text](https://drive.google.com/file/d/1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9/view)
+![Home Page](https://drive.google.com/uc?id=1fq7I0aZZBVmvMBzwe0cfx0atWomyaJd9)
 
 ### 2. Google Authentication
 
 - You will be redirected to the "Sign in with Google" page.
 - Choose any of your Google email accounts.
 
-![Google Authentication](https://drive.google.com/file/d/17MIn9qzY-SndOwiOTJ_biSngNV6dbYAt/view?usp=sharing)
+![Google Authentication](https://drive.google.com/uc?id=17MIn9qzY-SndOwiOTJ_biSngNV6dbYAt)
 
 ### 3. Session Information
 
 - After authentication, you will be redirected to another page.
 - This page displays information, as shown in the figure, and generates a session ID.
 
-![Session Information](https://drive.google.com/file/d/1KRBXEsXHy7AiloyqN28msHxs9cNkhreZ/view?usp=sharing)
+![Session Information](https://drive.google.com/uc?id=1kEiK-SlUkaAwwUdvsCrYSkcvqfMwAVYw)
 
 ### 4. Logout
 
 - Pressing the "Logout" button will redirect you to the logout page.
 
-![Logout](https://drive.google.com/file/d/1NWRDftVOFGG5y44zVrDuNq5_TVbnqf29/view?usp=sharing)
+![Logout](https://drive.google.com/uc?id=1NWRDftVOFGG5y44zVrDuNq5_TVbnqf29)
 
 ### Note
 
 - Sessions are managed. If you type [http://localhost:5000/return](http://localhost:5000/return) directly in your browser, it will show "Unauthorized."
 
-![Unauthorized](https://drive.google.com/file/d/1EyM27c84w0ANfySkm8xoWnhiBSvbmN1k/view?usp=sharing)
+![Unauthorized](https://drive.google.com/uc?id=1EyM27c84w0ANfySkm8xoWnhiBSvbmN1k)
+
 
