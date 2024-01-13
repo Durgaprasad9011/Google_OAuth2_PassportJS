@@ -28,11 +28,10 @@ And head over to https://localhost:5000 in your browser.
 
 
 
-# Project README
 
-## Google Authentication Example
 
-This project demonstrates the implementation of Google Authentication in a web application. Follow the steps below to understand the flow and functionalities.
+# Output
+
 
 ### 1. Initial Setup
 
