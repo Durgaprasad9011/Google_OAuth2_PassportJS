@@ -63,7 +63,7 @@ And head over to https://localhost:5000 in your browser.
 
 ### Note
 
-- Sessions are managed. If you type [http://localhost:5000/return](http://localhost:5000/return) directly in your browser, it will show "Unauthorized."
+- Sessions are managed. If you type [http://localhost:5000/return](http://localhost:5000/return) directly in your browser, without sign in initially it will show "Unauthorized."
 
 ![Unauthorized](https://drive.google.com/uc?id=1EyM27c84w0ANfySkm8xoWnhiBSvbmN1k)
 
